@@ -1,4 +1,4 @@
-# ☔️ Weather Forecast Email Notifier
+# ☔️ Rain Alert Email Notifier
 
 A Python script that fetches upcoming weather data using the OpenWeatherMap API and sends an email alert if rain is expected.
 
